@@ -1,0 +1,351 @@
+body {
+  font-family: Open Sans;
+  background: #e2e2e2;
+}
+a:hover {
+  text-decoration: none;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+.bold {
+  font-weight: 600;
+}
+.fz14 {
+  font-size: 14px !important;
+}
+.fz10 {
+  font-size: 10px !important;
+}
+.fz30 {
+  font-size: 30px !important;
+}
+.fz36 {
+  font-size: 36px !important;
+}
+.fz20 {
+  font-size: 20px !important;
+}
+.boldfont {
+  font-family: Fira Sans;
+}
+.ttu {
+  text-transform: uppercase;
+}
+.flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.p60 {
+  padding: 60px;
+}
+.tal {
+  text-align: left !important;
+}
+.dib {
+  display: inline-block;
+}
+.w100per {
+  width: 100% !important;
+}
+.m30_0 {
+  margin: 30px 0px;
+}
+content .container {
+  background: #fff;
+}
+.leftpart {
+  padding: 20px 30px;
+}
+.leftpart ul {
+  list-style: none;
+}
+.leftpart a {
+  color: #9c9c9c;
+  display: inline-block;
+  font-size: 11px;
+  padding: 10px 0;
+}
+.leftpart li {
+  border-bottom: 1px solid #efefef;
+}
+.leftpart .service_name {
+  font-size: 14px;
+  font-weight: 600;
+  color: #000;
+}
+.leftpart .h3 {
+  font-weight: 600;
+}
+.rightpart {
+  padding: 10px 30px;
+}
+.rightpart p {
+  color: #9c9c9c;
+}
+.rightpart .h2 {
+  margin-bottom: 30px;
+}
+.rightpart .triger {
+  float: right;
+  margin-bottom: 20px;
+}
+.rightpart .triger li {
+  list-style: none;
+  padding: 10px;
+  color: #fff;
+  background: #1f4061;
+  font-size: 20px;
+  text-align: center;
+}
+.rightpart .triger li:nth-child(1) {
+  font-size: 56px;
+  font-weight: 600;
+}
+.rightpart .triger li:nth-child(3) {
+  background: #26c163;
+}
+.rightpart .triger li a {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+.rightpart .triger ul {
+  margin-right: -30px;
+  margin-left: 30px;
+}
+.rightpart .triger .small {
+  font-size: 10px;
+}
+.more_info {
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+  display: inline-block;
+  margin: 20px 0px;
+  background: #f7f7f7;
+  text-transform: uppercase;
+}
+.webicon {
+  width: 40px;
+  float: left;
+}
+.tinkof-form {
+  padding: 10px;
+  margin: 30px 0px;
+  border: 1px solid #f3f3f3;
+  background: #fbfbfb;
+}
+.tinkof-form input,
+.tinkof-form textarea {
+  width: 100%;
+  border-radius: 0;
+  border: 1px solid #f1f1f1;
+  margin-bottom: 10px;
+  box-shadow: 0 0 0;
+}
+.tinkof-form .tinkof-form-left,
+.tinkof-form .tinkof-form-right {
+  padding: 40px 80px;
+}
+.tinkof-form .btn {
+  width: 100%;
+  background: #8295a7;
+  border: 0px;
+  border-radius: 0;
+}
+.tinkof-form .flex {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.tinkof-form-curcename {
+  font-weight: 600;
+  margin: 10px;
+}
+.tinkof-form-price {
+  font-weight: 600;
+  font-size: 48px;
+}
+.tinkof-form-price small {
+  font-size: 20px;
+}
+.section-name {
+  text-align: center;
+  padding: 30px 0px;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+.grey-section {
+  background: #fbfbfb;
+}
+.cource-advant {
+  padding: 30px 50px;
+}
+.cource-advant-item {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.cource-advant-name {
+  text-transform: uppercase;
+}
+.cource-advant .webicon {
+  float: left;
+  display: inline-block;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+.cource-advant p {
+  font-size: 12px;
+}
+.panel-default {
+  border-color: #f2f2f2;
+  box-shadow: 0 0 0;
+}
+.panel-default .panel-heading {
+  background: #fbfbfb;
+  text-transform: uppercase;
+}
+.panel-default .panel-heading a {
+  font-weight: 600;
+  font-size: 14px;
+}
+.panel-default .webico {
+  width: 18px;
+  margin-right: 15px;
+}
+.panel-body {
+  border: 0 !important;
+}
+.h4 {
+  padding: 30px 0px;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+.text-block {
+  margin: 40px 0px;
+}
+.text-block ul {
+  margin-left: 30px;
+}
+.text-block ul li {
+  font-size: 12px;
+  margin-bottom: 10px;
+  color: #9c9c9c;
+}
+.text-block .webico {
+  width: 230px;
+}
+.tinkof-form-right .date-list ul {
+  list-style: none;
+  margin-top: 30px;
+}
+.tinkof-form-right .date-list li {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #1f4061;
+}
+.tinkof-form-right .h3 {
+  color: #9c9c9c;
+  font-weight: 200;
+}
+.reviews {
+  margin-bottom: 30px;
+  padding: 10px;
+}
+.reviews-leftpart {
+  margin-right: 30px;
+  float: left;
+}
+.reviews-rightpart {
+  margin: 30px;
+}
+.reviews-ico {
+  margin-bottom: 30px;
+  width: 60px;
+}
+.reviews-name {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.reviews-organisation {
+  margin-bottom: 10px;
+  font-size: 10px;
+  color: #9c9c9c;
+}
+footer .footer-main {
+  height: 300px;
+  margin-top: 40px;
+  background: #123;
+}
+footer .footer-small {
+  height: 50px;
+  background: #000;
+}
+header {
+  background-image: url("../img/bg.jpg");
+}
+header .filter {
+  width: 100%;
+  background: rgba(13,17,49,0.54);
+  padding: 30px;
+}
+.topmenu .logo img {
+  width: 150px;
+}
+.topmenu .flex {
+  -webkit-flex-basis: 400px;
+      -ms-flex-preferred-size: 400px;
+          flex-basis: 400px;
+}
+.topmenu li {
+  list-style: none;
+  width: 20%;
+  box-sizing: border-box;
+  text-align: center;
+  position: relative;
+}
+.topmenu li:after {
+  content: '';
+  height: 10px;
+  width: 1px;
+  background: #fff;
+  position: absolute;
+  right: 0;
+  top: 43%;
+}
+.topmenu li:last-child:after,
+.topmenu li:first-child:after {
+  content: '';
+  height: 0px;
+}
+.topmenu li a {
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.topmenu li a:nth-child(0) {
+  padding-left: 0px;
+}
+.topmenu li ul {
+  display: none;
+}
+/*# sourceMappingURL=css/style.css.map */
+/*# sourceMappingURL=style.css.map */
